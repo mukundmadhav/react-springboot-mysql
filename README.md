@@ -1,3 +1,4 @@
+
 # React, Spring Boot and MySQL webapp!
 
 Hey there! This app is an example application for anyone looking for a web app linking the backend capabilities of Spring Boot (with Hibernate) to excellent frontend offered by React. 
@@ -7,7 +8,7 @@ Hey there! This app is an example application for anyone looking for a web app l
 
 ![List of all data in our React app](https://cdn-images-1.medium.com/max/1000/1*h8A68kGQpM6QoQYOCqux6g.png)
 
-If you would like to follow on the tutorial for the app you can visit the article on medium: How to build and deploy React app with Spring Boot and MySQL server.
+If you would like to follow on the tutorial for the app you can visit the article on medium: [How to build and deploy React app with Spring Boot and MySQL server](https://medium.com/@mukundmadhav/build-and-deploy-react-app-with-spring-boot-and-mysql-6f888eb0c600).
 
 ## The purpose of the webapp
 
