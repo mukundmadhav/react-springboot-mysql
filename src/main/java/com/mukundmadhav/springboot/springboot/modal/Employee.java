@@ -1,6 +1,6 @@
 package com.mukundmadhav.springboot.springboot.modal;
 
-import java.sql.Date;
+import java.time.LocalDate;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -25,7 +25,7 @@ public class Employee {
 	private String department;
 
 	@Column
-	private Date dob;
+	private LocalDate dob;
 
 	@Column
 	private String gender;
@@ -60,11 +60,11 @@ public class Employee {
 		this.department = department;
 	}
 
-	public Date getDob() {
+	public LocalDate getDob() {
 		return dob;
 	}
 
-	public void setDob(Date dob) {
+	public void setDob(LocalDate dob) {
 		this.dob = dob;
 	}
 
