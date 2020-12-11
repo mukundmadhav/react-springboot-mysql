@@ -46,7 +46,7 @@ export default function AddEmployee() {
   const [department, setDepartment] = React.useState("");
   const [gender, setGender] = React.useState("");
 
-  const handleDateChange = date => setSelectedDate(date);
+  const handleDateChange = date => setSelectedDate(date.target.value);
   const handleNameChange = event => setName(event.target.value);
   const handlDepartmentChange = event => setDepartment(event.target.value);
   const handleGenderChange = event => setGender(event.target.value);
