@@ -34,4 +34,6 @@ $ java -jar target/springboot-0.0.1-SNAPSHOT.jar
 
 I hope this app gives some insight on how to compile the backend and the frontend into a single executable file making deployment a breeze. 
 
+If you have any feedback or suggestion, let's connect on LinkedIn: [Mukund Madhav](https://www.linkedin.com/in/mukundmadhav02/) or on my website at [mukundmadhav.com](https://mukundmadhav.com)
+
 Happy coding 😃
